@@ -1,0 +1,557 @@
+.body{
+    /* background: linear-gradient(red,blue); */
+}
+h1,h2,h3,h4,h5,h6,p{
+    font-family: 'Kalpurush', sans-serif;
+}
+.all{
+    margin-left: 100px;
+    margin-right: 120px;
+    
+}
+.topbar{
+    background: #683091;
+    width: 100%;
+    display: inline-flex;
+    padding: 10px;
+   
+}
+.left{
+    
+}
+.left a{
+    font-size: 12px;
+    color: #fff;
+    text-decoration: none;
+    margin-left: 5px;
+}
+.right{
+    margin-left: 750px;
+}
+.right input{
+    width: 80px;
+    border: 1px solid white;
+    padding: 1px;
+    box-shadow: 2px 2px 2px black;
+}
+.butt{
+    background: #276F0B;
+    border: none;
+    padding: 3px;
+    border-radius: 3px;
+    
+}
+.butt:hover{
+    background: #045C01;
+}
+.butt a{
+    text-decoration: none;
+    
+    text-transform: capitalize;
+    color: #fff;
+    padding: 2px;
+    width: 100%;
+}
+.english{
+    background: #D6D6D6;
+    
+}
+.english a{
+    text-decoration: none;
+    color: rgb(34, 34, 34);
+}
+  
+.banner{
+    display: inline-flex;
+    background: url(../images/1.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 220px;
+  
+    
+}
+.logo{
+    margin-top: 120px;
+    margin-left: 10px;
+}
+.logo img{}
+.text{
+    margin-top: 140px;
+    margin-left: 20px;
+    text-shadow: 4px 4px 6px black;
+}
+.text a{
+    text-decoration: none;
+    font-size: 30px;
+    color: #fff;
+    font-size: 27px;
+    font-weight: 700;
+}
+
+.manu{}
+.manu nav{}
+.manu nav ul{}
+.manu nav ul li{
+    display: inline;
+    border: 1px dotted rgb(216, 201, 201);
+}
+.manu nav ul li a{
+   padding: 5px;
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+}
+.manu nav ul li a:hover{
+    background: orange;
+    color: #fff;
+    
+}
+
+.main{
+    width: 100%;
+    display: inline-flex;
+}
+.prodhan{
+    width: 80%;
+}
+.prime{
+   
+}
+.prime img{
+    width: 100%;
+}
+.edu{
+    width: 20%;
+}
+.dipu{
+    
+    margin-left: 20px;
+    
+    
+}
+.dipu h5{
+    background: #609513;
+    padding: 10px;
+    color: #fff;
+    font-size: 14px;
+}
+.dipu img{
+    width: 100%;
+}
+.dipu h1{
+    margin-top: 1px;
+}
+.dipu a{
+    text-decoration: none;
+   color: #948080;
+   margin-left: 29px;
+   margin-top: 25px;
+}
+.marq{
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.notice{
+    width: 100%;
+    display: inline-flex;
+    border: 1px solid rgb(173, 169, 169);
+}
+.pic{
+    width: 20%;
+}
+.pic img{}
+.content{
+    width: 80%;
+}
+.content h1{
+    font-size: 20px;
+}
+.content ul{}
+.content ul li{}
+.content ul li a{
+    text-decoration: dotted;
+    color: rgb(112, 110, 110);
+    font-size: 13px;
+    padding: 10px;
+}
+.content ul li a:hover{
+    color: rgb(31, 30, 30);
+    text-decoration: underline;
+}
+.sokol{
+    text-decoration: none;
+    font-size: 15px;
+    color: #6e6b6b;
+    margin-left: 670px;
+    background: linear-gradient(rgb(0,0,0), rgb(43, 41, 41));
+}
+
+.news{
+    border: 1px solid rgb(173, 169, 169);
+}
+.khobor{}
+.khobor a{
+    text-decoration: none;
+    font-size: 12px;
+    color: #6e6b6b;
+}
+.sob{}
+.sob a{
+    text-decoration: none;
+    font-size: 15px;
+    color: #6e6b6b;
+    margin-left: 670px;
+    background: linear-gradient(rgb(0,0,0), rgb(43, 41, 41));
+    margin-left: 850px;
+}
+
+.intro{}
+.intro h1{
+    background: rgb(96, 149, 19);
+    padding: 10px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+}
+.intro p{
+    font-size: 14px;
+    font-weight: 400;
+    word-spacing: 5px;
+}
+.main{
+    width: 100%;
+    margin: 10px;
+    
+}
+.one{
+    
+    width: 50%;
+    display: inline-flex;
+    border: 1px solid rgb(173, 169, 169);
+    margin-right: 10px;
+    box-shadow: 2px 2px 1px rgb(199, 191, 191);
+}
+    
+
+.photo h1{
+    font-size: 20px;
+    font-weight: 600;
+}
+.photo img{
+    /* width: 40%; */
+    margin-top: -50px;
+}
+.goal{
+    /* width: 60%; */
+}
+.goal ul{
+    margin-top: 90px;
+}
+.goal ul li{
+    
+}
+.goal ul li a{
+    text-decoration: none;
+    font-size: 14px;
+    color: rgb(75, 70, 70);
+    text-align: justify;
+    
+}
+.goal ul li a:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+.two{
+    width: 50%;
+    display: inline-flex;
+    border: 1px solid rgb(173, 169, 169);
+    margin-left: 5px;
+    box-shadow: 2px 2px 1px rgb(199, 191, 191);
+}
+.photo h1{
+    font-size: 20px;
+    font-weight: 600;
+}
+.photo img{
+    /* width: 50%; */
+    padding: 10px;
+    margin-bottom: -10px;
+    margin-top: -50px;
+    
+}
+.goal{
+    /* width: 50%; */
+}
+.goal ul{
+    margin-top: 70px;
+}
+.goal ul li{}
+.goal ul li a{
+    text-decoration: none;
+    font-size: 14px;
+    color: rgb(75, 70, 70);
+    margin-left: 10px;
+    text-align: justify;
+}
+
+.video h1{
+    background: #276F0B;
+    color: #fff;
+    padding: 10px;
+}
+.eservice{
+    
+}
+.eservice h3{
+    font-size: 12px;
+    background: url(../images/internal_eservice2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* width: 100%; */
+    padding: 15px;
+    margin-left: 25px;
+    margin-right: -12px;
+    text-decoration: underline;
+    
+    color: #fff;
+    
+}
+
+.check{
+    margin-left: 20px;
+    border-bottom: 1px solid rgb(105, 100, 100);
+    margin-top: 10px;
+}
+.check img{
+    font-size: 20px;
+}
+.check a{
+    text-decoration: none;
+    font-size: 12px;
+    color: rgb(73, 68, 68);
+    margin-left: 10px;
+}
+.check a:hover{
+    text-decoration: underline;
+    color: black;
+}
+.সকল a{
+   
+    
+    text-decoration: none;
+    
+}
+.সকল a h4{
+    background:#999999;
+    margin-left: 25px;
+    color: rgb(46, 34, 34);
+    text-align: center;
+    padding: 2px;
+    font-size: 14px;
+    font-weight: 400;
+}
+.central a{
+    text-decoration: none;
+}
+.central a h3{
+    background: #609513 ;
+    margin-left: 25px;
+    color: rgb(235, 227, 227);
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.দর্শক h3{
+    background: #609513 ;
+    margin-left: 25px;
+    color: rgb(235, 227, 227);
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.দর্শক a{
+    
+}
+.দর্শক a img{
+    margin-left: 25px;
+}
+.দুদক h3{
+    margin-left: 25px;
+    background: #609513 ;
+    padding: 10px;
+    font-size: 14px;
+    color: #fff;
+}
+.দুদক h6{
+    margin-left: 25px;
+}
+
+.map h3{
+    margin-left: 25px;
+    background: #609513 ;
+    padding: 10px;
+    font-size: 14px;
+    color: #fff;
+}
+.ম্যাপ{
+    margin-left: 25px;
+    width: 90%;;
+    height: 220px;
+}
+
+.নথি h3{
+    background: #609513 ;
+    margin-left: 25px;
+    color: rgb(235, 227, 227);
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.নথি a{
+    
+}
+.নথি a img{
+    margin-left: 25px;
+    width: 90%;
+}
+.লিংক h3{
+    background: #609513 ;
+    margin-left: 25px;
+    color: rgb(235, 227, 227);
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.social h3{
+    background: #609513 ;
+    margin-left: 25px;
+    color: rgb(235, 227, 227);
+    padding: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    text-decoration: none;
+}
+.social a{}
+.social a img{
+    margin-left: 25px;
+}
+.দর্শক{}
+.দর্শক a{
+    text-decoration: none;
+}
+.দর্শক h2:hover{
+    color: rgb(36, 35, 35);
+}
+.দর্শক h2{
+    margin-left: 25px;
+    font-size: 20px;
+    color: #808283;
+}
+.উপহার h3{
+    font-size: 12px;
+    margin-left: 20px;
+    font-weight: 100;
+    background: #609513 ;
+    padding: 1px;
+}
+.আশ্রয়ণের iframe{
+    margin-left: 20px;
+}
+.করোনা h3{
+    background: #609513 ;
+    margin-left: 25px;
+    color: rgb(235, 227, 227);
+    padding: 5px;
+    font-size: 12px;
+    font-weight: 500;
+    text-decoration: none;
+}
+.করোনা a img{
+    width: 90%;
+    margin-left: 25px;
+    border: 1px solid black;
+}
+.করোনা iframe{
+    margin-left: 25px;
+}
+.ট্রেসার h3{
+    background: #609513 ;
+    margin-left: 25px;
+    color: rgb(235, 227, 227);
+    padding: 5px;
+    font-size: 12px;
+    font-weight: 500;
+    text-decoration: none;
+    
+}
+.ট্রেসার a{}
+.ট্রেসার a img{
+    width: 90%;
+    margin-left: 25px;
+}
+
+.দর্শক a{}
+.দর্শক a img{
+    width: 90%;
+}
+.foot img{
+    width: 1130px;
+}
+
+
+
+.last{
+    width: 100%;
+    display: inline-flex;
+}
+.nav1{
+    width: 50%;
+}
+.lastmanu{}
+.lastmanu nav{}
+.lastmanu nav ul{}
+.lastmanu nav ul li{
+    display: inline-flex;
+}
+.lastmanu nav ul li a{
+    text-decoration: none;
+    font-size: 12px;
+    margin-left: 10px;
+    border-right: 1px solid rgb(170, 163, 163);
+    color: black;
+    padding: 10px;
+}
+.lastmanu nav ul li a:hover{
+    background: #777777;
+    color: #fff;
+    padding: 10px;
+}
+.site h4{
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.nav2{
+    width: 50%;
+}
+.porikolpona{}
+.porikolpona h6{}
+.porikolpona h6 a{
+    text-decoration: none;
+    color: #5c5555;
+}
+.karigori{}
+.karigori h6{
+    font-weight: 400;
+}
+.karigori img{
+    margin-left: 10px;
+}
